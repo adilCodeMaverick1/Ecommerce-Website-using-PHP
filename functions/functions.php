@@ -159,7 +159,7 @@ function getCatPro(){
 }
 
 
-//  getting catagaries from database
+//getting catagaries from database
 function getcat(){
 global $db;
 $get_catag ='select * from catagories';

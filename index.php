@@ -1,7 +1,7 @@
 <?php
 session_start();
 include ("includes/connection.php");
-include ("functions/functions.php")
+include ("functions/functions.php");
 ?>
 
 <!doctype html>
@@ -27,6 +27,7 @@ include ("functions/functions.php")
            <div class="col-md-2">
                <!-- <img  class="d-none d-md-flex" src="logo" width="100"> -->
                <h5>WAALI Collection</h5>
+              
            </div>
            <div class="col-md-8">
         <div class="d-flex form-inputs">
